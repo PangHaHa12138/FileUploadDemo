@@ -25,7 +25,7 @@ a Android Upload file to Sever and download from Sever demo 最简单快速的�
 ###
 ![image](https://github.com/PangHaHa12138/FileUploadDemo/blob/master/screenhot/5.png)
 ###
-![vido](https://github.com/PangHaHa12138/FileUploadDemo/blob/master/screenhot/vido1.mp4)
+(https://github.com/PangHaHa12138/FileUploadDemo/blob/master/screenhot/vido1.mp4)
 ###
-![vido](https://github.com/PangHaHa12138/FileUploadDemo/blob/master/screenhot/vido2.mp4)
+(https://github.com/PangHaHa12138/FileUploadDemo/blob/master/screenhot/vido2.mp4)
 
